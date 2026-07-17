@@ -1,4 +1,4 @@
-package com.biblioteca.dao;
+package com.biblioteca.infra;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
